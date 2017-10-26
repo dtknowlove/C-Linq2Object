@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Linq2Object
 {
@@ -7,7 +6,9 @@ namespace Linq2Object
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Start a console project!");
+//            TestConsole.ConsoleSth4Test();
+//            LinqBasicTest.Expression1();
+            LinqBasicTest.PerformanceTest();
         }
     }
 }
